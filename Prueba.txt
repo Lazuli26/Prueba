@@ -1,3 +1,7 @@
 Hola mundo
+<<<<<<< HEAD
 
 Kezo
+=======
+Miguexe
+>>>>>>> origin/master
